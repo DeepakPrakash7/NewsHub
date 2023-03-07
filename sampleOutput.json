@@ -1,0 +1,212 @@
+{
+  "status": "ok",
+  "totalResults": 23,
+  "articles": [
+    {
+      "source": { "id": "der-tagesspiegel", "name": "Der Tagesspiegel" },
+      "author": "Der Tagesspiegel",
+      "title": "Klarstellung der US-Justiz: Trump gegen Klagen zu Kapitolsturm nicht durch Immunität geschützt",
+      "description": "Der Ex-US-Präsident sieht sich gegen Klagen auf Schadensersatz durch seine Immunität geschützt. Die Aufstachelung zu Gewalt fällt allerdings aus dem rechtlichen Rahmen.",
+      "url": "https://www.tagesspiegel.de/internationales/zivilklagen-nach-kapitolssturm-2021-justizministerium-stellt-grenzen-von-trumps-immunitat-klar-9444539.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/files-us-politics-trump-justice/alternates/BASE_16_9_W1400/files-us-politics-trump-justice.jpeg",
+      "publishedAt": "2023-03-03T06:23:16+00:00",
+      "content": "Der Ex-US-Präsident sieht sich gegen Klagen auf Schadensersatz durch seine Immunität geschützt. Die Aufstachelung zu Gewalt fällt allerdings aus dem rechtlichen Rahmen."
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "CBS News",
+      "title": "Trump supporters gather at CPAC, but some notable names skip convention",
+      "description": "Many Republican leaders and voters have flocked to the Conservative Political Action Conference in Maryland, where former President Donald Trump is scheduled to speak Saturday night. However, many potential 2024 presidential candidates are notably absent from…",
+      "url": "https://www.cbsnews.com/video/trump-supporters-gather-cpac-but-some-notable-names-skip-convention/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/03/03/a4870c0c-d92a-4d27-968b-e9e92258f223/thumbnail/1200x630/df86d19920d3577b0c2f2ff76069fbbe/cbsn-fusion-trump-supporters-gather-at-cpac-while-notable-2024-potential-candidates-skip-the-convention-thumbnail-1763014-640x360.jpg",
+      "publishedAt": "2023-03-03T06:02:04+00:00",
+      "content": "Watch CBS News\r\nCopyright ©2023 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
+    {
+      "source": { "id": "breitbart-news", "name": "Breitbart News" },
+      "author": "Pam Key",
+      "title": "Dem Rep. Barbara Lee: My Lawsuit Against Trump Is in 'the Country's Best Interests'",
+      "description": "Representative Barbara Lee (D-CA), who is running for U.S. Senate to fill the seat soon to be vacated by Sen. Dianne Feinstein (D-CA), said Thursday on MSNBC's \"Deadline\" that her lawsuit against former President Donald Trump was \"in the country's best intere…",
+      "url": "https://www.breitbart.com/clips/2023/03/02/dem-rep-barbara-lee-my-lawsuit-against-trump-is-in-the-countrys-best-interests/",
+      "urlToImage": "https://media.breitbart.com/media/2023/02/AP23047069537571-1-640x335.jpg",
+      "publishedAt": "2023-03-03T04:20:50Z",
+      "content": "Representative Barbara Lee (D-CA), who is running for U.S. Senate to fill the seat soon to be vacated by Sen. Dianne Feinstein (D-CA), said Thursday on MSNBC’s “Deadline” that her lawsuit against for… [+1424 chars]"
+    },
+    {
+      "source": { "id": "breitbart-news", "name": "Breitbart News" },
+      "author": "Katherine Hamilton",
+      "title": "Poll: Americans Think Corporate Media Is Going Easy on Biden",
+      "description": "A majority of U.S. voters think the news media is less aggressive in questioning Biden than they were in questioning Trump.",
+      "url": "https://www.breitbart.com/politics/2023/03/02/poll-majority-of-americans-think-corporate-media-going-easy-on-biden-bias-getting-worse/",
+      "urlToImage": "https://media.breitbart.com/media/2021/07/Joe-Biden-speaks-to-reporters-gestures-wide-arms-getty-640x335.jpg",
+      "publishedAt": "2023-03-03T03:01:24Z",
+      "content": "A majority of likely U.S. voters think the news media is going easy on President Joe Biden and is “less aggressive in questioning Biden than they were in questioning former President Donald Trump,” a… [+2218 chars]"
+    },
+    {
+      "source": { "id": "msnbc", "name": "MSNBC" },
+      "author": null,
+      "title": "Schumer: Fox guilty of ‘worst lie in the history of our democracy’",
+      "description": "Sen. Schumer calls on Fox to stop spreading Trump’s “propaganda” about the 2020 election: “This lie is the worst lie that has been told in the history of our democracy—because it’s eroding faith in the whole enterprise.\"",
+      "url": "https://www.msnbc.com/all-in/watch/schumer-fox-guilty-of-worst-lie-in-the-history-of-our-democracy-164378181772",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2023_03/1677807897809_n_hayes_schumer_230302_1920x1080-29nz07.jpg",
+      "publishedAt": "2023-03-03T01:44:40Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "The Hill",
+      "title": "DOJ: No immunity for Trump in Jan. 6 lawsuits - The Hill",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vdGhlaGlsbC5jb20vbmV3c2xldHRlcnMvZGVmZW5zZS1uYXRpb25hbC1zZWN1cml0eS8zODgxOTA5LWRvai1uby1pbW11bml0eS1mb3ItdHJ1bXAtaW4tamFuLTYtbGF3c3VpdHMv0gFyaHR0cHM6Ly90aGVoaWxsLmNvbS9uZXdzbGV0dGVycy9kZWZlbnNlLW5hdGlvbmFsLXNlY3VyaXR5LzM4ODE5MDktZG9qLW5vLWltbXVuaXR5LWZvci10cnVtcC1pbi1qYW4tNi1sYXdzdWl0cy9hbXAv?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-03T00:09:00+00:00",
+      "content": null
+    },
+    {
+      "source": { "id": "newsweek", "name": "Newsweek" },
+      "author": "Katherine Fung",
+      "title": "Trump's Already Daunting Legal Troubles May Be About to Get Worse",
+      "description": "The Justice Department said that plaintiffs should be allowed to sue Trump for damages over speech that he claimed was protected by immunity.",
+      "url": "https://www.newsweek.com/trumps-already-daunting-legal-troubles-may-about-get-worse-1785179",
+      "urlToImage": "https://d.newsweek.com/en/full/2203493/trump-doj-immunity-lawsuit.jpg",
+      "publishedAt": "2023-03-02T20:57:16Z",
+      "content": "Donald Trump was dealt another legal blow this week after a brief in a civil case related to the January 6 Capitol riot argued that his claims of presidential immunity should be rejected.\r\nOn Thursda… [+3136 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "ERIC TUCKER and ALANNA DURKIN RICHER",
+      "title": "Trump can be sued for Jan. 6 riot harm, Justice Dept. says",
+      "description": "WASHINGTON (AP) — Former President Donald Trump can be sued by injured Capitol Police officers and Democratic lawmakers over the Jan. 6, 2021, insurrection at the U.S.",
+      "url": "https://apnews.com/d18d0c6369837c725578cf6e13c18883",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/cd45cc103bbd46a69a0873ec917d6b73/3000.jpeg",
+      "publishedAt": "2023-03-02T18:28:06Z",
+      "content": "WASHINGTON (AP) — Former President Donald Trump can be sued by injured Capitol Police officers and Democratic lawmakers over the Jan. 6, 2021, insurrection at the U.S. Capitol, the Justice Department… [+5397 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "C. Ryan Barber",
+      "title": "Trump Can Be Sued Over Role in Jan. 6 Attack, Justice Department Says",
+      "description": "Agency urges an appeals-court panel to reject former president’s immunity claims from civil suits brought in connection with Capitol riot",
+      "url": "https://www.wsj.com/articles/trump-can-be-sued-over-role-in-jan-6-attack-justice-department-says-b9f5a58c?mod=hp_lead_pos11",
+      "urlToImage": "https://images.wsj.net/im-735134/social",
+      "publishedAt": "2023-03-02T18:22:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "Susan Ferrechio",
+      "title": "What about Ron? CPAC attendees frown on Fla. governor challenging Trump for presidential nomination",
+      "description": "If former President Donald Trump were a vaccine that could ward off Florida Gov. Ron DeSantis, the attendees at this year's Conservative Political Action Conference have been double jabbed. And boosted.",
+      "url": "https://www.washingtontimes.com/news/2023/mar/2/what-about-ron-cpac-attendees-frown-fla-governor-c/",
+      "urlToImage": "https://twt-thumbs.washtimes.com/media/image/2023/03/02/TV_Crew_Attack_79694_c0-165-4883-3013_s1200x700.jpg?04af31ff3620492ddf1c014b6d8dba4841f540d3",
+      "publishedAt": "2023-03-02T17:50:04Z",
+      "content": "If former President Donald Trump were a vaccine that could ward off Florida Gov. Ron DeSantis, the attendees at this years Conservative Political Action Conference have been double jabbed. And booste… [+4412 chars]"
+    },
+    {
+      "source": { "id": "msnbc", "name": "MSNBC" },
+      "author": "Steve Benen",
+      "title": "Dems, Trump lean on Rupert Murdoch, but only one side makes sense",
+      "description": "As Donald Trump pushes Rupert Murdoch to embrace lies and conspiracy theories, Democratic leaders are pushing the executive in the opposite direction.",
+      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/dems-trump-lean-rupert-murdoch-only-one-side-makes-sense-rcna73074",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-02/230228-rupert-murdoch-mb-1210-7869dc.jpg",
+      "publishedAt": "2023-03-02T15:44:45Z",
+      "content": "The first round of revelations from Dominion Voting Systems defamation case against Fox News was surprisingly brutal: A detailed court filing presented evidence that the media outlet apparently promo… [+3691 chars]"
+    },
+    {
+      "source": { "id": "the-huffington-post", "name": "The Huffington Post" },
+      "author": "Lee Moran",
+      "title": "New Nickname Idea For Ron DeSantis Is Too Dumb Even For Donald Trump",
+      "description": "\"I've heard worse,\" the former president told right-wing radio host Sebastian Gorka.",
+      "url": "https://www.huffpost.com/entry/donald-trump-ron-desantis-nickname_n_6400544fe4b0a96d9cd19bc1",
+      "urlToImage": "https://img.huffingtonpost.com/asset/64005b5a2600006b0090c081.jpeg?cache=WUC1FeuJMo&ops=1200_630",
+      "publishedAt": "2023-03-02T08:20:31Z",
+      "content": "Donald Trumps search for the perfect nickname for potential 2024 GOP presidential rival Ron DeSantis appears to continue.\r\nThe former president, well known for insulting opponents with schoolyard nic… [+900 chars]"
+    },
+    {
+      "source": { "id": "the-globe-and-mail", "name": "The Globe And Mail" },
+      "author": "Lawrence Martin",
+      "title": "Liz Cheney is making headway in slaying the Trump dragon",
+      "description": "By spearheading congressional hearings into the Jan. 6 attack on the Capitol, the representative is fast becoming an American heroine",
+      "url": "https://www.theglobeandmail.com/opinion/article-liz-cheney-is-making-headway-in-slaying-the-trump-dragon/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/wCgPPEAVIFE4MLAb_xauhJzJqLI=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/YT6S7Z443RL23MYNL4VZY4WXRQ.jpg",
+      "publishedAt": "2022-06-15T19:24:08Z",
+      "content": "Vice Chair Liz Cheney, Rep. Adam Schiff, and Rep. Adam Kinzinger, stand together during a break as the House select committee investigating the Jan. 6 attack on the U.S. Capitol holds its first publi… [+4635 chars]"
+    },
+    {
+      "source": { "id": "fortune", "name": "Fortune" },
+      "author": "Eamon Barrett",
+      "title": "A new report shows how badly the Trump administration slashed the U.S.’s climate credentials",
+      "description": "The ranking from Yale University says decisions made by the Trump administration slashed the country's climate credentials",
+      "url": "https://fortune.com/2022/06/01/trump-us-climate-action-paris-accord-methane-yale-environmental-performance-index/",
+      "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/06/GettyImages-1342340441-e1654072113634.jpg?resize=1200,600",
+      "publishedAt": "2022-06-01T10:31:29Z",
+      "content": "Skip to Content"
+    },
+    {
+      "source": { "id": "the-hill", "name": "The Hill" },
+      "author": "Rachel Frazin",
+      "title": "Supreme Court halts ruling against Trump Clean Water Act rollback in 5-4 decision",
+      "description": "The Supreme Court has halted a prior court ruling that struck down a Trump-era rule that limited state and tribal authority to veto projects that could impact their waters, including pipelines.  The Trump rule in question, which was nixed by a federal court i…",
+      "url": "https://thehill.com/policy/equilibrium-sustainability/3260315-supreme-court-halts-ruling-against-trump-clean-water-act-rollback-in-5-4-decision/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2021/09/newsletter-supremecourt_090221getty.jpg?w=1280",
+      "publishedAt": "2022-04-06T14:18:04Z",
+      "content": "The Supreme Court has halted a prior court ruling that struck down a Trump-era rule that limited state and tribal authority to veto projects that could impact their waters, including pipelines. \r\nThe… [+1936 chars]"
+    },
+    {
+      "source": { "id": "the-hill", "name": "The Hill" },
+      "author": "Jordain Carney, Peter Sullivan",
+      "title": "Trump-era fight snags COVID deal",
+      "description": "Congress appears poised to punt a $10 billion deal on coronavirus relief until after a looming two-week break, as multiple stumbling blocks are complicating quick passage of the agreement.   A bipartisan group of senators announced this week that they had cli…",
+      "url": "https://thehill.com/news/3260056-trump-era-fight-snags-covid-deal/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2022/04/thunejohn_040522arl2_lead.jpg?w=1280",
+      "publishedAt": "2022-04-06T10:00:00Z",
+      "content": "Congress appears poised to punt a $10 billion deal on coronavirus relief until after a looming two-week break, as multiple stumbling blocks are complicating quick passage of the agreement.  \r\nA bipar… [+5716 chars]"
+    },
+    {
+      "source": { "id": "aftenposten", "name": "Aftenposten" },
+      "author": "NTB-AP-AFP",
+      "title": "Oberstløytnant som vitnet mot Trump, går av",
+      "description": "Oberstløytnant Alexander Vindman, som vitnet mot president Donald Trump i riksrettssaken, orker ikke mer mobbing og trekker seg fra hæren.",
+      "url": "https://www.aftenposten.no/verden/i/y3QoOK/Oberstloytnant-som-vitnet-mot-Trump_-gar-av",
+      "urlToImage": "https://premium.vgc.no/ap/images/bd89d0be-e705-4c34-9d52-1a56b5059cd6?fit=crop&q=80&w=1440",
+      "publishedAt": "2020-07-09T05:07:25.190605Z",
+      "content": "smp-stories-top-widget\r\nVindman fikk sparken fra sin stilling i det nasjonale sikkerhetsrådet i Det hvite hus i februar, to dager etter at president Donald Trump ble frikjent.\r\nVindman lå an til forf… [+1055 chars]"
+    },
+    {
+      "source": { "id": "vice-news", "name": "Vice News" },
+      "author": "David Gilbert",
+      "title": "Far-Right Social Network Gab Has a Verified Account Waiting For Trump With 27,000 Followers",
+      "description": "Gab users have been instructed to tweet at and write to the president urging him to join the network, which is filled with conspiracy theories, racism, and antisemitism.",
+      "url": "https://www.vice.com/en_us/article/z3exw4/far-right-social-network-gab-has-a-verified-account-waiting-for-trump-with-27000-followers",
+      "urlToImage": "https://video-images.vice.com/test-uploads/articles/5ecfac1d185c22009661743b/lede/1590670574578-AP_20143569698255.jpeg?crop=1xw:0.8427xh;0xw,0.1573xh&resize=1200:*",
+      "publishedAt": "2020-05-28T13:56:57Z",
+      "content": "Want the best of VICE News straight to your inbox? Sign up here.\r\n As President Donald Trump fumes at Twitters decision to fact-check two of his tweets this week, a ready-made replacement social netw… [+3512 chars]"
+    },
+    {
+      "source": { "id": "vice-news", "name": "Vice News" },
+      "author": "Carter Sherman",
+      "title": "Trump's FDA Won't Let Women Get Abortion Pills Remotely In a Pandemic. So The ACLU Is Suing.",
+      "description": "Pregnant people have make an in-person visit to pick up the pill — even if they've already seen a provider about getting an abortion.",
+      "url": "https://www.vice.com/en_us/article/935yq7/trumps-fda-wont-let-women-get-abortion-pills-remotely-in-a-pandemic-so-the-aclu-is-suing",
+      "urlToImage": "https://video-images.vice.com/test-uploads/articles/5eceae1504ee25009b133490/lede/1590603286527-AbortionPills.jpeg?crop=1xw:0.8425xh;0xw,0.1425xh&resize=1200:*",
+      "publishedAt": "2020-05-27T18:43:49Z",
+      "content": "As the coronavirus pandemic ground almost every U.S. industry to a standstill, the Trump administration urged healthcare professionals to use telemedicine to see patients remotely and stem the spread… [+4029 chars]"
+    },
+    {
+      "source": { "id": "spiegel-online", "name": "Spiegel Online" },
+      "author": "Spiegel Online",
+      "title": "Rekonstruktion der Tötung Soleimanis: Die letzten Minuten des Schattenkriegers",
+      "description": "Als Irans General Soleimani am 3. Januar in Bagdad landet, warten auf dem Rollfeld zwei Autos, ein Toyota und ein Hyundai. Da hat Donald Trump den Befehl schon erteilt.",
+      "url": "https://www.spiegel.de/plus/drohnenangriff-auf-qasem-soleimani-auf-dem-rollfeld-warteten-bereits-zwei-autos-a-393afdbc-f714-4ae6-bb45-61bb855f76d4",
+      "urlToImage": "https://www.spiegel.de/plus/images/5b5a466c-a775-49fb-afd8-85ec25ac3810_w1200_r1_fpx46_fpy27_wm.jpg",
+      "publishedAt": "2020-01-07T13:00:57Z",
+      "content": null
+    }
+  ]
+}

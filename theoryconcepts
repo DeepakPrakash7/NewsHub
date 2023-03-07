@@ -1,0 +1,40 @@
+React Component Lifecycle
+
+
+The series of events that happen from the mounting of a React component to its Unmounting
+
+Mounting-Birth of your component
+update-Growth of your component
+Unmount - Death of your component
+
+
+Methods in react component 
+
+->the render method is used to render html of the component in react. This method is required for a class based component to render the DOM. It runs during the mouting and updating of your component. Render() method should be pure that is cannot modify state inside it.
+
+->the componentdidmount() method runs after the component output has been rendered to the DOM
+
+->thee componentdidupdate() method is invioked as soon as the updating happpens. The most common use case for the componentdidupdate mehod is updating the DOM is repsosne to prop or state chanfges.
+
+->componentwillunmount() lifecycle method is called just before the component is unmounted and destroyed. Usualy used to perform cleanups.
+
+
+What are React Hooks?
+
+-> Features of Class based-components in function based components
+->It allows you to use state and other React features without writing a class
+->Hooks are the functions which 'hook into' React state and lifecycle features from function components.
+
+
+commonly used React Hooks
+
+->useState
+->useEffect 
+->useContext
+->useRef
+
+
+
+
+
+`https://newsapi.org/v2/top-headlines?q=${props.q}&category=${props.category}&apikey=763bb2748dd74d9a87d5a9c23fb3b873&page=${this.state.page}&pagesize=${props.pagesize}`;
